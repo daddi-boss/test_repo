@@ -1,1 +1,1 @@
-console.log('Hi')
+function ind() { console.log('Hi') }
